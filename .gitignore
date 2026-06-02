@@ -3,6 +3,6 @@ dist/
 .vite/
 *.local
 .DS_Store
-*-screenshot.png
+*screenshot.png
 main-final.png
 main-snapshot.txt
