@@ -1,3 +1,11 @@
+# 신흥동 선거안내 (통합됨)
+
+> 이 저장소의 안내 페이지는 [seoul-election-guide](https://github.com/Leewonchan14/seoul-election-guide) 로 통합되었습니다.
+> 라이브: https://leewonchan14.github.io/seoul-election-guide/incheon/
+> 이 저장소의 `gh-pages` 브랜치는 위 주소로 넘기는 리다이렉트만 제공하며, `main` 은 이관 전 소스 보관용입니다.
+
+---
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
